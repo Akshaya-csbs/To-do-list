@@ -1,4 +1,4 @@
-# Minimalist To-Do List Application
+# ZYLO To-Do List Application
 
 A clean, professional, and beginner-friendly To-Do List web application built with React and Tailwind CSS. 
 
